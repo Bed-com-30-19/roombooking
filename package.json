@@ -1,0 +1,24 @@
+{
+  "name": "roombooking-api",
+  "version": "1.0.0",
+  "description": "ROOM BOOKING REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Node",
+    "MySQL",
+    "ORM"
+  ],
+  "author": "Bed-com-30-19",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
