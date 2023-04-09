@@ -7,6 +7,10 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/Bed-com-30-19/roombooking.git"
+   },
   "keywords": [
     "RESTful",
     "API",
