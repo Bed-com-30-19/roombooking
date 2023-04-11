@@ -3,7 +3,8 @@ const post = {
     creator: "",
     comments: "",
     name: "",
-    imageurl: "",
-    summery: ""
+    imageUrl: "",
+    summary: ""
 }
+
 module.exports = post
